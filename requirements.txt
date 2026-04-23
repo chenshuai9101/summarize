@@ -1,0 +1,2 @@
+# Summarize 依赖
+python>=3.8
